@@ -470,7 +470,7 @@ namespace Sonbol
             //    Console.Write(arr[i] + " ");
             //}
 
-            //حل اخر
+    
             #endregion
 
 
