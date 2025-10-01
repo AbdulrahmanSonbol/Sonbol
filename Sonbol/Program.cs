@@ -451,6 +451,18 @@ namespace Sonbol
             #region Q17
 
             //int[] arr = { 1, 2, 3, 4, 5 };
+            //Array.Reverse(arr); 
+
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    Console.Write(arr[i] + " ");
+            //}
+
+            //Console.WriteLine();
+
+            //حل اخر
+
+            //int[] arr = { 1, 2, 3, 4, 5 };
 
             //Console.WriteLine("Array in Reverse Order:");
             //for (int i = arr.Length - 1; i >= 0; i--)
@@ -458,6 +470,7 @@ namespace Sonbol
             //    Console.Write(arr[i] + " ");
             //}
 
+            //حل اخر
             #endregion
 
 
